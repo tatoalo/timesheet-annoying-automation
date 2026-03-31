@@ -11,3 +11,4 @@ build/
 venv/
 .env
 timesheet-*.png
+timesheet-audit.log
